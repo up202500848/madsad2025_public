@@ -19,12 +19,16 @@ Wanna know more on how usefull it could be for some use cases and maybe start us
 
 ### BDP
 
-- mostly class code
+- class code
 - past years exercises resolutions as well
 
 ### OPT
 
 - ...
+
+### LB
+
+- class code
 
 ## Other
 
