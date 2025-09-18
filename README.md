@@ -2,7 +2,11 @@
 
 David Paiva Fernandes Master in data analytics (2025-...) public stuff!
 
-Reaching out: up202500848@edu.fep.up.pt
+# This is a GIT repository.
+
+You're not into GIT and don't wanna be? No problem: just browse as you would on a web page.
+
+Wanna know more on how usefell it could be for some use cases and maybe start using it? Good: start here https://rogerdudler.github.io/git-guide/
 
 # Contents - always expanding (pull frequently)
 
@@ -20,3 +24,7 @@ Reaching out: up202500848@edu.fep.up.pt
 
 - Code in this repository is licensed under the MIT License.
 - Notes, documents and BibTeX files are licensed under CC BY-NC 4.0.
+
+## Me
+
+Reaching out: up202500848@edu.fep.up.pt
