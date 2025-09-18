@@ -6,7 +6,7 @@ David Paiva Fernandes Master in data analytics (2025-...) public stuff!
 
 You're not into GIT and don't wanna be? No problem: just browse as you would on a web page.
 
-Wanna know more on how usefell it could be for some use cases and maybe start using it? Good: start here https://rogerdudler.github.io/git-guide/
+Wanna know more on how usefull it could be for some use cases and maybe start using it? Good: start here https://rogerdudler.github.io/git-guide/
 
 # Contents - always expanding (pull frequently)
 
