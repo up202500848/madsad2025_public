@@ -15,10 +15,20 @@ Wanna know more on how usefell it could be for some use cases and maybe start us
 - bibliography_01.bib - bibtex file with all the mandatory and complementar bibliography references. If you think using some automated tool to manage/use bibliographic references in your papers, its usefull.
 - MADSAD 1st year - Mandatory Bibliography.pdf - list of mandatory and complementar bibliography books courtesy of Inês Costa. There's an actual drive storage with most of the actual books as PDF files. Reach out to her at the whatsapp group or take a look at the group's description. The access is not open, you'll have to ask for access permission.
 
-## BDP
+## Classes
+
+### BDP
 
 - mostly class code
 - past years exercises resolutions as well
+
+### OPT
+
+- ...
+
+## Other
+
+Other stuff.
 
 ## License
 
