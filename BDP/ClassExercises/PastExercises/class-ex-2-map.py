@@ -5,7 +5,7 @@ def hondt(votes, seats):
   quocients = map(
       lambda p: map(
           lambda i: {"party": p[0], "quotient": p[1] / i},
-          range(1, seats + 1)
+          range(1, seats + 2)
       ),
       enumerate(votes)
   )
